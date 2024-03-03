@@ -1,6 +1,6 @@
 # H.4.5 Communications Platform
 * epicPlaylist: [ep7_malangaMindset](https://open.spotify.com/playlist/2TrcaZpbRXq5LhGWmVQRYu?si=ed742198f2e24ee9)
-* groove H.4.5: [Organise by Asake](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI?si=d126e48af2e54716)
+* gr5myConnection: [Organise by Asake](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI?si=d126e48af2e54716)
 
 ## P3 Communications Memo
 
