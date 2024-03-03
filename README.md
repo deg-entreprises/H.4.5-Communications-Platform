@@ -11,7 +11,7 @@ We enable **African Alcoholic Beverage Manufacturers** to participate in the fut
 **Africa's Neutral Alcohol Supply Chain** is modeled after outdated institutions, so **African Alcoholic Beverage Manufacturers** are dependent on outdated solutions without the ability to voice how their value chain should mature.
 
 ### Solution
-**DEG Entreprises** is developing a Parallel Permaculture Platform Ecosystem (P3 Ecosystem) modeled after a **Healthy Eukaryotic Cell**, so **African Alcoholic Beverage Manufacturers** can use biomimicry to disrupt **Africa's Neutral Alcohol Supply Chain** with open source and decentralized communications platform.
+**DEG Entreprises** is developing a Parallel Permaculture Platform Ecosystem (P3 Ecosystem) modeled after a **Healthy Eukaryotic Cell**, so **African Alcoholic Beverage Manufacturers** can use biomimicry to disrupt **Africa's Neutral Alcohol Supply Chain** with an open source and decentralized communications platform.
 
 ### Market*
 [MINICT & Innovation](https://www.minict.gov.rw) 
